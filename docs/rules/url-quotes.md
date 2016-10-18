@@ -17,7 +17,7 @@ When enabled, the following are allowed:
 
 ```
 
-When enabled, the following are disallowed:
+When disabled, the following are disallowed:
 
 ```scss
 .bar {
